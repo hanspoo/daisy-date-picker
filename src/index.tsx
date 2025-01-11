@@ -1,3 +1,3 @@
-import { DaisyDateReader } from './daisy-date-reader'
+import { DaisyDatePicker } from './daisy-date-picker'
 
-export default DaisyDateReader
+export default DaisyDatePicker

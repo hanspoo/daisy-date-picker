@@ -10,7 +10,7 @@ type DateReaderProps = {
   className?: string
 }
 
-export function DaisyDateReader({
+export function DaisyDatePicker({
   date: fecha,
   setDate: setFecha,
   disabled = false,
