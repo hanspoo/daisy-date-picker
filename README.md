@@ -13,7 +13,7 @@ npm install --save daisy-date-picker
 ## Usage
 
 ```tsx
-<DaisyDateReader
+<DaisyDatePicker
   date={new Date(date)}
   setDate={(date: Date) => setDate(date)}
   className='mb-4'
